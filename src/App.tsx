@@ -1,4 +1,3 @@
-import './App.css';
 import Todos from './components/Todos';
 import Header from './Header';
 import NewTodo from './components/NewTodo';
